@@ -263,6 +263,15 @@
     background-position-x: 50%;
     --cta-bgX: 50%;
 }
+.cta__icon--save {
+    background-position-x: 75%;
+    --cta-bgX: 75%;
+}
+
+.cta__icon--share {
+    background-position-x: 100%;
+    --cta-bgX: 100%;
+}
 
 .player {
     background-color: #dbdbdb;
