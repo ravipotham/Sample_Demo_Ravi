@@ -1175,13 +1175,13 @@
         margin:0 auto;
     }
 
-    .cta--bottom.cta--5 .cta__button {
+    .cta--bottom.cta--3 .cta__button {
         border: 1px solid #0f0f0f;
         border-right: none;
         margin: 0;
     }
 
-    .cta--bottom.cta--5 .cta__button--button-1 {
+    .cta--bottom.cta--3 .cta__button--button-1 {
         border-left: none;
     }
 
