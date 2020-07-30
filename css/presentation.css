@@ -285,30 +285,7 @@
     background-color: #fff;
 }
 
-.promo--side .promo__image {
-    background-size: 200% 100%;
-}
 
-.promo--side .promo__link:hover .promo__image,
-.promo--side .promo__link:active .promo__image,
-.promo--side .focusable.promo__link:focus .promo__image {
-    background-position: 100% 0;
-}
-
-.promo--bottom .promo__image {
-    background-size: 100% 200%;
-}
-
-.promo__link {
-    color: #0f0f0f;
-    text-decoration: none;
-}
-
-.promo__link:hover,
-.promo__link:active,
-.focusable.promo__link:focus {
-    text-decoration: underline;
-}
 
 .timeline {
     color: #fff;
