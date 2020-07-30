@@ -1159,9 +1159,7 @@
 
     .cta--1 .cta__button--button-1,
     .cta--2 .cta__button--button-2,
-    .cta--3 .cta__button--button-3,
-    .cta--4 .cta__button--button-4,
-    .cta--5 .cta__button--button-5 {
+    .cta--3 .cta__button--button-3{
         border-bottom: 0;
     }
 }
