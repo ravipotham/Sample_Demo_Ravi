@@ -1159,7 +1159,9 @@
 
     .cta--1 .cta__button--button-1,
     .cta--2 .cta__button--button-2,
-    .cta--3 .cta__button--button-3{
+    .cta--3 .cta__button--button-3,
+	.cta--4 .cta__button--button-4,
+	.cta--5 .cta__button--button-5{
         border-bottom: 0;
     }
 }
@@ -1175,13 +1177,13 @@
         margin:0 auto;
     }
 
-    .cta--bottom.cta--3 .cta__button {
+    .cta--bottom.cta--5 .cta__button {
         border: 1px solid #0f0f0f;
         border-right: none;
         margin: 0;
     }
 
-    .cta--bottom.cta--3 .cta__button--button-1 {
+    .cta--bottom.cta-5 .cta__button--button-1 {
         border-left: none;
     }
 
